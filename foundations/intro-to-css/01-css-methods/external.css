@@ -1,0 +1,9 @@
+#external {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    border-radius: 5px;
+    background-color: red;
+    text-align: center;
+}
